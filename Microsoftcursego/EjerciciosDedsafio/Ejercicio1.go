@@ -12,7 +12,6 @@ func main() {
 
 	var integer64 int = 9223372036854775808
 
-	fmt.Println("Esto es la variable", integer64 )
-
+	fmt.Println("Esto es la variable", integer64)
 
 }
